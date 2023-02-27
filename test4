@@ -1,2 +1,8 @@
 hey! i have made this for branch and merge purpose so
 after merging it won't be visible to this branch
+so, i found that on merging the branch only those files moved to the main branch 
+which aren't in the main branch on the github 
+and rest of files which care same they aren't moved to the main 
+because they already ther
+so this case is called idempotency 
+where only those file included whuch is not in the main 
